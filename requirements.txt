@@ -1,0 +1,8 @@
+```text
+pandas
+numpy
+openpyxl
+chardet
+statsmodels
+xlrd
+pywin32
